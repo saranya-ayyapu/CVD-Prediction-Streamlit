@@ -2,7 +2,7 @@
 """
 Created on Sat Aug  3 02:48:08 2024
 
-@author: SHRIYANS
+@author: SARANYA
 """
 
 import numpy as np
@@ -107,8 +107,8 @@ def main():
     st.caption('12. Number of major vessels (1-4)')
     st.caption("13. Thalassemia: A blood disorder called thalassemia, Value 0: NULL, Value 1: fixed defect, Value 2: normal blood flow, Value 3: reversible defect")
 
-    st.markdown("<p style = 'text-align: center; black: red;'>Created by Shriyans Rout</p>", unsafe_allow_html=True)
-    st.markdown("<p style = 'text-align: center; black: grey;'>@ Heartlife-2024</p>", unsafe_allow_html=True)
+    st.markdown("<p style = 'text-align: center; black: red;'>Created by Saranya</p>", unsafe_allow_html=True)
+    st.markdown("<p style = 'text-align: center; black: grey;'>@ CVD-Prediction</p>", unsafe_allow_html=True)
     
 if __name__ == '__main__':
     main()
